@@ -15,7 +15,7 @@ public class DBConnection {
                 
                 
                 
-            System.out.println("Database Connected");
+            System.out.println("Datase Connected");
            
     
             return con;
